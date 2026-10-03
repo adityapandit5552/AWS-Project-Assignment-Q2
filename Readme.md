@@ -1,6 +1,6 @@
 # AWS Q2 – Custom VPC and EC2 Web Server
 
-## Project Overview
+## Project Overview ⭐
 
 This project demonstrates the deployment of a web server using **Amazon EC2 inside a custom AWS VPC**.
 
@@ -48,7 +48,7 @@ A custom VPC was created with a public subnet, Internet Gateway, route table, an
                   index.html
 ```
 
-## Network Configuration
+## Network Configuration ⭐
 
 ### VPC
 
@@ -193,7 +193,7 @@ The Ubuntu EC2 web server was successfully deployed inside a custom AWS VPC.
 
 Nginx was configured to serve a custom HTML webpage, and the website was successfully accessed through the EC2 public IP.
 
-## Screenshots
+## Screenshots ⭐
 
 ### 1. VPC Resource Map
 
